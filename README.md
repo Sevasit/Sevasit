@@ -9,7 +9,7 @@ I'm a student who loves coding 🥰
 * ✉️  You can contact me at [new12253952@gmail.com](mailto:new12253952@gmail.com)
 * 🧠  I'm learning HTML , CSS , Tailwind CSS , Node JS , TypeScript , PHP , and more...
 * 🤝  I'm open to collaborating on Next mid year.
-* ⚡  I love animal , coding , music , reading , gaming
+* ⚡  I love animal😺 , coding🧑‍💻 , music🎵 , reading📖 , gaming🕹️ , exercise🏃‍♀️
 
 ### Skills
 
