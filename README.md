@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sevasit Senpradit
 =========================================================================================================================================
 
-I'm a student who loves coding 🥰
+I'm a student who loves coding ><
 ---------------------------------
 
 * 🌍  I'm based in Bangkok
@@ -9,7 +9,7 @@ I'm a student who loves coding 🥰
 * ✉️  You can contact me at [new12253952@gmail.com](mailto:new12253952@gmail.com)
 * 🧠  I'm learning HTML , CSS , Tailwind CSS , Node JS , TypeScript , PHP , and more...
 * 🤝  I'm open to collaborating on Next mid year.
-* ⚡  I love animal😺 , coding🧑‍💻 , listen to music🎵 , reading📖 , gaming🕹️ , exercising🏃‍♀️
+* ⚡  I love animal , coding , music , reading , gaming
 
 ### Skills
 
@@ -31,7 +31,7 @@ I'm a student who loves coding 🥰
 
 ### Socials
 
-<a href="https://www.linkedin.com/in/เศวศิษฎ์-เสนประดิษฐ์-45082a251/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Sevasit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/เศวศิษฎ์-เสนประดิษฐ์-45082a251/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
