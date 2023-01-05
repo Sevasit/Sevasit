@@ -39,4 +39,4 @@ I'm a student who loves coding ><
 
 <a href="http://www.github.com/Sevasit"><img src="https://github-readme-stats.vercel.app/api?username=Sevasit&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=0f172a&hide_border=true&show_icons=true" alt="Sevasit's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevasit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevasit)](https://github.com/anuraghazra/github-readme-stats)
