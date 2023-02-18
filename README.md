@@ -40,4 +40,5 @@ I'm a student who loves coding ><
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sevasit&show_icons=true&theme=tokyonight)
 
 <a href="https://github.com/Sevasit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sevasit&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Sevasit&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
 
