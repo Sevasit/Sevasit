@@ -7,7 +7,7 @@ I'm a student who loves coding ><
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [My PORTFOLIO](http://registerapp-5fe8c.web.app/)
 * ✉️  You can contact me at [new12253952@gmail.com](mailto:new12253952@gmail.com)
-* 🧠  I'm learning HTML , CSS , Tailwind CSS , Node JS , TypeScript , PHP , and more...
+* 🧠  I'm learning HTML , CSS , Tailwind CSS , Node JS , TypeScript , Next JS , SpringBoot , and more...
 * 🤝  I'm open to collaborating on Next mid year.
 * ⚡  I love animal , coding , music , reading , gaming
 
