@@ -10,7 +10,7 @@ I'm a developer who loves coding ><
 * 🤝  I'm open to collaborating on Next mid year.
 * ⚡  I love animal , coding , music , reading , gaming
 
-### 🪐 Tennologies that I use regularly
+### 🪐 Technologies that I use regularly
 - Next JS
 - React
 - TypeScript
@@ -24,7 +24,7 @@ I'm a developer who loves coding ><
 - Express JS
 - Postgresql
 
-### ⛈️ Tennologies that I don't use munch but already worked with
+### ⛈️ Technologies that I don't use munch but already worked with
 - C#
 - Dotnet Core
 - Nest JS
