@@ -15,6 +15,7 @@ I'm a developer who loves coding ><
 - JavaScript
 - Python
 - Kotlin
+  
 🍔Technologies
 - Next JS
 - React JS
@@ -25,9 +26,11 @@ I'm a developer who loves coding ><
 - Tailwind CSS
 - Zustand
 - Springboot
+
 📃 Database
 - Postgresql
 - MariaDB
+
 📂 Deployment & tools
 - Docker
 - Git , Github , Gitlab
@@ -40,10 +43,12 @@ I'm a developer who loves coding ><
 ✈️ Language
 - C#
 - Java
+
 🍔Technologies
 - Dotnet Core
 - Nest JS
 - Express JS
+
 📃 Database
 - MySQL
 - MongoDB
