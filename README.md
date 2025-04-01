@@ -10,50 +10,21 @@ I'm a developer who loves coding ><
 * ⚡  I love animal , coding , music , reading , gaming
 
 ### 🪐 Technologies that I use regularly
-✈️ Language
-- TypeScript
-- JavaScript
-- Python
-- Kotlin
-  
-🍔Technologies
-- Next JS
-- React JS
-- Node JS
-- Frappe framework & ErpNext
-- Tanstack library
-- Material Ui
-- Tailwind CSS
-- Zustand
-- Springboot
 
-📃 Database
-- Postgresql
-- MariaDB
+| Category            | Technologies/Tools                                      |
+|---------------------|--------------------------------------------------------|
+| **✈️ Language**     | TypeScript, JavaScript, Python, Kotlin                 |
+| **🍔 Technologies** | Next JS, React JS, Node JS, Frappe framework & ErpNext, Tanstack library, Material UI, Tailwind CSS, Zustand, Springboot |
+| **📃 Database**     | PostgreSQL, MariaDB                                    |
+| **📂 Deployment & Tools** | Docker, Git, GitHub, GitLab, Postman, DBeaver, VSCode, Ubuntu |
 
-📂 Deployment & tools
-- Docker
-- Git , Github , Gitlab
-- Postman
-- Bbeaver
-- VScode
-- Ubuntu
+### ⛈️ Technologies that I don't use much but already worked with
 
-### ⛈️ Technologies that I don't use munch but already worked with
-✈️ Language
-- C#
-- Java
-
-🍔Technologies
-- Dotnet Core
-- Nest JS
-- Express JS
-
-📃 Database
-- MySQL
-- MongoDB
-- OracleDB
-- MicrosoftSQL
+| Category            | Technologies/Tools                                      |
+|---------------------|--------------------------------------------------------|
+| **✈️ Language**     | C#, Java                                               |
+| **🍔 Technologies** | Dotnet Core, Nest JS, Express JS                       |
+| **📃 Database**     | MySQL, MongoDB, OracleDB, MicrosoftSQL                 |
                     
 
 # 📊 GitHub Stats:
